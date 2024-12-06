@@ -1,5 +1,6 @@
-# Angat-Buhay-Management-System
-## Overview
+# ✨ Angat-Buhay-Management-System ✨
+
+## 📝 Overview
 The Angat Buhay Donation Management System is a system designed to manage and update various types of donations for multiple causes. 
 It supports a wide range of donation categories, including food, water, clothes, books, school supplies, toiletries, and monetary contributions. 
 The system allows users to add, update, and view donations, along with their associated details such as the cause, quantity, unit of measurement, 
@@ -8,7 +9,7 @@ a user-friendly interface for updating donation information, such as cause, quan
 process of collecting and managing charitable donations, providing efficient tracking and updating functionalities for both donors and 
 administrators. Angat Buhay Donation tracker tracks the donation of the donors.
 
-## Python Concepts and Libraries Used
+## 📚 Python Concepts and Libraries Used
 The application integrates several key Python concepts and libraries to build its graphical user interface and manage user interactions:
 
 - **Object-Oriented Programming (OOP)**: The application uses OOP principles by organizing functionalities within a `DonationApp` class, with methods for displaying forms, submitting donations, and managing user interactions.
@@ -23,15 +24,15 @@ The application integrates several key Python concepts and libraries to build it
 
 These data structures enable dynamic updates and effective management of user inputs and donation records.
 
-## Integration with SDGs (Sustainable Development Goals)
-The **Angat Buhay Donation Management System** aligns with **SDG 2: Zero Hunger** and **SDG 4: Quality Education** by supporting the collection and distribution of resources to address food security and educational access.
+## 🌍 Integration with SDGs (Sustainable Development Goals)
+The **Angat Buhay Donation Management System** aligns with **🎯 SDG 2: Zero Hunger** and **🎯 SDG 4: Quality Education** by supporting the collection and distribution of resources to address food security and educational access.
 
 - Donations of food, water, and toiletries contribute directly to **SDG 2: Zero Hunger**, addressing nutritional needs and food security.
 - Donations of books and school supplies help promote educational access, supporting **SDG 4: Quality Education** by ensuring that underprivileged children and communities have the resources needed for learning.
 
 Through these efforts, the system fosters both nutritional security and educational opportunities for those in need.
 
-## Instructions for Running the Program
+## 🗂️ Instructions for Running the Program
 
 ### I. Donate
 When the system starts, the **Donate** option is presented. The user is prompted to:
